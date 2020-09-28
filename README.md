@@ -16,7 +16,7 @@
 * As a user, I want to see how many pints are left in a keg. Hint: A full keg has roughly 124 pints. 
 * As a user, I want to be able to click a button next to a keg whenever I sell a pint of it. This should decrease the number of pints left by 1. Pints should not be able to go below 0.</h3>
 
-## **CLONING**
+## **SETUP**
 
 * Copy the repo link as shown in the image below
 
@@ -28,6 +28,10 @@
 
 ![cloning](https://coding-assets.s3-us-west-2.amazonaws.com/img/clone-github2.gif 'Cloning from Github within VSCode')
 
+* run npm install from inside the project directory
+
+* run npm start to launch in the browser
+
 <br>
 
 # **TECHNOLOGIES USED**
@@ -38,13 +42,13 @@ _[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)_
 
 _[Visual Studio Code](https://code.visualstudio.com/)_
 
-_[React]_
+_[React](https://reactjs.org/docs/getting-started.html)_
 
 
 
 <br>
 
-# **INSTALL**
+
 
 # **❤️Contributors**
 
