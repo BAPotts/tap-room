@@ -12,7 +12,7 @@ function KegList(props){
           brand={keg.brand}
           price={keg.price}
           alcoholContent={keg.alcoholContent}
-          pintsLeft={keg.pintsLeft}
+          pintsLeft={parseInt(keg.pintsLeft)}
           id={keg.id}
           key={keg.id} />
       )}
